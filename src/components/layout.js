@@ -40,6 +40,9 @@ const Layout = ({ isHomePage, children }) => {
         <a href="https://www.gatsbyjs.com">Gatsby</a>
         {` `}
         And <a href="https://wordpress.org/">WordPress</a>
+        <p>
+          Site by <a href="https://brandastic.com">Brandastic</a>
+        </p>
       </footer>
     </div>
   )
